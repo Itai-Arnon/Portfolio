@@ -25,7 +25,7 @@ This C program performs set theory operations such as union, symmetric differenc
 
 **stop**  
 
-## **output**  
+## **output that follows**  
 
 
  bit  0= 0  
