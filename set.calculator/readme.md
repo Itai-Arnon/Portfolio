@@ -10,16 +10,16 @@ This C program performs set theory operations such as union, symmetric differenc
 - **Intersection**: Returns elements that are common to both sets.
 - **Error Handling**: Detects and reports syntax errors in user commands.
 
-Example input  
-Welcome to The Set Caluculator
- Please Enter Your Command
- (Make Sure To Obide All Syntax Rules)
+-**Example input**  
+-**Welcome to The Set Caluculator**
+- **Please Enter Your Command**
+- **(Make Sure To Obide All Syntax Rules)**
  
-read_set SETA ,1,2,3,4,-1
-read_set SETB,1,2,3,4,5,6,-1
-union_set SETA,SETB,SETC 
-print_set SETC
-stop
+-**read_set SETA ,1,2,3,4,-1**
+-**read_set SETB,1,2,3,4,5,6,-1**
+-**union_set SETA,SETB,SETC** 
+-**print_set SETC**
+-**stop**
 
  bit  0= 0  
 bit  1= 1  bit  2= 1  bit  3= 1  bit  4= 1  bit  5= 1  bit  6= 1  bit  7= 0  bit  8= 0  bit  9= 0  bit 10= 0  bit 11= 0  bit 12= 0  bit 13= 0  bit 14= 0  bit 15= 0  bit 16= 0  bit 17= 0  bit 18= 0  bit 19= 0  bit 20= 0  
@@ -29,7 +29,9 @@ bit 61= 0  bit 62= 0  bit 63= 0  bit 64= 0  bit 65= 0  bit 66= 0  bit 67= 0  bit
 bit 81= 0  bit 82= 0  bit 83= 0  bit 84= 0  bit 85= 0  bit 86= 0  bit 87= 0  bit 88= 0  bit 89= 0  bit 90= 0  bit 91= 0  bit 92= 0  bit 93= 0  bit 94= 0  bit 95= 0  bit 96= 0  bit 97= 0  bit 98= 0  bit 99= 0  bit 100= 0  
 bit 101= 0  bit 102= 0  bit 103= 0  bit 104= 0  bit 105= 0  bit 106= 0  bit 107= 0  bit 108= 0  bit 109= 0  bit 110= 0  bit 111= 0  bit 112= 0  bit 113= 0  bit 114= 0  bit 115= 0  bit 116= 0  bit 117= 0  bit 118= 0  bit 119= 0  bit 120= 0  
 bit 121= 0  bit 122= 0  bit 123= 0  bit 124= 0  bit 125= 0  bit 126= 0  bit 127= 0  
-Stopped the Service, Thank You. Come Back Soon
+
+
+**Stopped the Service, Thank You. Come Back Soon**
 
 
 
