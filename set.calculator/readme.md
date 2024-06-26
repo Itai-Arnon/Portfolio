@@ -15,15 +15,15 @@ This C program performs set theory operations such as union, symmetric differenc
 - **Please Enter Your Command**
 - **(Make Sure To Obide All Syntax Rules)**
  
--**read_set SETA ,1,2,3,4,-1**  
+**read_set SETA ,1,2,3,4,-1**  
 
--**read_set SETB,1,2,3,4,5,6,-1**  
+**read_set SETB,1,2,3,4,5,6,-1**  
 
--**union_set SETA,SETB,SETC**  
+**union_set SETA,SETB,SETC**  
 
--**print_set SETC**  
+**print_set SETC**  
 
--**stop**  
+**stop**  
 
 
  bit  0= 0  
