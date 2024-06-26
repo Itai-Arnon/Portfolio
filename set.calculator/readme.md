@@ -10,7 +10,7 @@ This C program performs set theory operations such as union, symmetric differenc
 - **Intersection**: Returns elements that are common to both sets.
 - **Error Handling**: Detects and reports syntax errors in user commands.
 
-##**Example input**  
+## **Example input**  
 **Welcome to The Set Caluculator**
  **Please Enter Your Command**
  **(Make Sure To Obide All Syntax Rules)**
@@ -25,7 +25,7 @@ This C program performs set theory operations such as union, symmetric differenc
 
 **stop**  
 
-##**output**  
+## **output**  
 
 
  bit  0= 0  
