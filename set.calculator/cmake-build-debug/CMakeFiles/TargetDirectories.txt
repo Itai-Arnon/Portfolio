@@ -1,0 +1,3 @@
+C:/OPU/20465/VM_20465/FINAL_VERSIONS_ONLY/m22/cmake-build-debug/CMakeFiles/m22.dir
+C:/OPU/20465/VM_20465/FINAL_VERSIONS_ONLY/m22/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/OPU/20465/VM_20465/FINAL_VERSIONS_ONLY/m22/cmake-build-debug/CMakeFiles/rebuild_cache.dir
